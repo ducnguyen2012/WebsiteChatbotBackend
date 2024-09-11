@@ -8,3 +8,7 @@ numpy == 1.26.4
 pandas
 langchain
 pypdf
+flask_cors
+giskard
+datasets
+ragas
