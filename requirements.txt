@@ -1,7 +1,7 @@
 openai
 langchain
 flask
-re
+regex
 io
 typing
 numpy == 1.26.4
