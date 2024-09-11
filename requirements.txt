@@ -2,7 +2,7 @@ openai
 langchain
 flask
 regex
-io
+Python-IO
 typing
 numpy == 1.26.4
 pandas
