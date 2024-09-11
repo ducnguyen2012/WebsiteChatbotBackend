@@ -1,0 +1,10 @@
+openai
+langchain
+flask
+re
+io
+typing
+numpy == 1.26.4
+pandas
+langchain
+pypdf
