@@ -12,3 +12,4 @@ flask_cors
 giskard
 datasets
 ragas
+dotenv
