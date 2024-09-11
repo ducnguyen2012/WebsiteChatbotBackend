@@ -1,3 +1,4 @@
+python-dotenv
 openai
 langchain
 flask
@@ -12,4 +13,4 @@ flask_cors
 giskard
 datasets
 ragas
-python-dotenv
+
