@@ -13,4 +13,4 @@ flask_cors
 giskard
 datasets
 ragas
-
+gunicorn
